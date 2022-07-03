@@ -135,6 +135,16 @@
                 />
   </url><url>
     <loc>https://ericrzhu.com/categories/test/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/categories/test/"
+                />
   </url><url>
     <loc>https://ericrzhu.com/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
