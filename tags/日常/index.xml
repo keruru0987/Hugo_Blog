@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>日常 on Eric 个人博客</title>
-        <link>https://erichu.top/tags/%E6%97%A5%E5%B8%B8/</link>
+        <link>https://ericrzhu.com/tags/%E6%97%A5%E5%B8%B8/</link>
         <description>Recent content in 日常 on Eric 个人博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 10 Sep 2021 14:35:43 +0000</lastBuildDate><atom:link href="https://erichu.top/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 10 Sep 2021 14:35:43 +0000</lastBuildDate><atom:link href="https://ericrzhu.com/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>腾讯实习经历</title>
-        <link>https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</link>
+        <link>https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</link>
         <pubDate>Fri, 10 Sep 2021 14:35:43 +0000</pubDate>
         
-        <guid>https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</guid>
-        <description>&lt;img src="https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/cover.jpg" alt="Featured image of post 腾讯实习经历" /&gt;&lt;p&gt;在腾讯实习两个月后目前已经跑路回到学校了，记录一下这第一段实习的经历吧。&lt;/p&gt;
+        <guid>https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</guid>
+        <description>&lt;img src="https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/cover.jpg" alt="Featured image of post 腾讯实习经历" /&gt;&lt;p&gt;在腾讯实习两个月后目前已经跑路回到学校了，记录一下这第一段实习的经历吧。&lt;/p&gt;
 &lt;h2 id=&#34;找实习阶段&#34;&gt;找实习阶段&lt;/h2&gt;
 &lt;p&gt;  大三下学期的时候，就是说想要去充实一下暑假的生活，于是便开始找实习（&lt;del&gt;因为如果不自己找的话就只能接受学校安排的在学校里的实习了，很没意思&lt;/del&gt;）。找暑期实习有金三银四的说法，一般大厂的暑期实习三月就开始提前批的面试了。但是我投递的时间比较晚，是四月多才投的，因此也就只赶上了正式批。一开始抱着初生牛犊不怕虎的心态，投的都是互联网大厂，心想着只要有一个能要我就行，因此也没做什么准备。&lt;/p&gt;
 &lt;p&gt;  还记得第一个面试是美团的。因为完全没有准备，整个过程就有那么一些些的尴尬，基本上百分之六十的问题是回答不出来的，然后不出意外的过了二天就收到了拒信（&lt;del&gt;已经将您放入了人才储备库&lt;/del&gt;），之后网易互娱的面试也是如此。痛定思痛，开始看面经做一些准备，刷刷算法题，复习计网的知识等等&lt;code&gt;我感觉计网，数据库的东西是面试的时候最喜欢问的，不过等大四做毕设后也知道为什么了，后端程序员基本上每天接触的就是这俩东西&lt;/code&gt;。效果还是蛮显著的，之后的几个面试基本都能通过一面了，但还是死在二面三面上。眼看时间越来越紧，想着开发卷不进去，就换个方向吧，投了腾讯的测试开发岗位，经过蛮长的三次面试之后，很幸运的通过了，记得HR给我打电话的时候我非常的激动，甚至都没听清我是被哪个部门给录了。
-&lt;img src=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer.jpg&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer.jpg&#34;
 	width=&#34;1381&#34;
 	height=&#34;883&#34;
-	srcset=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_480x0_resize_q75_box.jpg 480w, https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_480x0_resize_q75_box.jpg 480w, https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;offer&#34;
@@ -36,10 +36,10 @@
 &lt;p&gt;  入职的准备过程还是比较简单的，找了个下午去做了一张银行卡（还是b站联名的）拍了个工卡照（拍的我十分的白），然后就是想个英文名字了 ，之前我的英文名字是cloud，但想着会不会有点太搞事情了，就打算重新起一个英文名，经过在网上的一番搜索，随便起了一个英文名Eric。然后这个英文名就陪伴了我两个月的时间（&lt;del&gt;现在也还是&lt;/del&gt;）。剩下的准备工作就是定机票了，住宿因为腾讯那边会安排中转酒店所以不用考虑，租房子的话等到了那边再看。为了省钱定的春秋航空，虽然风评不是很好但是实际体验下来也是没有什么太大的槽点。&lt;/p&gt;
 &lt;p&gt;  7月6号，经过半天的飞行到达了深圳。第一站是荔林，比较有生活气息的一个地方,不得不说腾讯给的中转酒店还是十分ok的。晚上就四周逛了一逛，然后去腾讯滨海大厦外面参观了一波。我是很喜欢在城市里面骑车转的，不过我要吐槽一下深圳没有专门的非机动车道，骑车非常痛苦。在来到深圳之前，我以为南山是深圳非常偏远的一个地方了（我孤陋寡闻了），但实际上感觉能够算是深圳的中心区了，可能福田更偏金融一些，南山更偏向于科技一些。然后第二天我老爸老妈也就来到深圳了，一起看租的房子。天真的我一开始是打算2000块钱的月租拿下的，但现实给了我巨大的打击。因为腾讯滨海大厦在南山的中心地区，周边的房子即便是公寓，都要6000块一个月还没窗，往远点租到宝安区的话就必须要忍受巨大的人流量。最后权衡了一波之后，大概在前海湾那边找了一个公寓，每月租金5000，虽然有点远但是很安静而且房间很大。
   虽然房间还是有点贵，但是我感觉配置非常的不错了。于是非常爽的自己住生活便开始了。
-&lt;img src=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room.png&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room.png&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_480x0_resize_box_3.png 480w, https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_480x0_resize_box_3.png 480w, https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;room&#34;

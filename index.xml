@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Eric 个人博客</title>
-        <link>https://erichu.top/</link>
+        <link>https://ericrzhu.com/</link>
         <description>Recent content on Eric 个人博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="https://erichu.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="https://ericrzhu.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>这个网站还在测试阶段，老的博客还在更新</title>
-        <link>https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</link>
+        <link>https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</link>
         <pubDate>Sun, 03 Jul 2022 13:41:57 +0800</pubDate>
         
-        <guid>https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</guid>
+        <guid>https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</guid>
         <description>&lt;h2 id=&#34;基本的已经摸索的差不多了估计快了&#34;&gt;基本的已经摸索的差不多了，估计快了&lt;/h2&gt;
 &lt;p&gt;老博客网址：&lt;code&gt;http://ericrzhu.com&lt;/code&gt;，快速前往 &lt;a class=&#34;link&#34; href=&#34;http://ericrzhu.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;走你&lt;/a&gt;
-&lt;img src=&#34;https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1.jpg&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1.jpg&#34;
 	width=&#34;5465&#34;
 	height=&#34;2842&#34;
-	srcset=&#34;https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_480x0_resize_q75_box.jpg 480w, https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_480x0_resize_q75_box.jpg 480w, https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;test_image&#34;
@@ -33,11 +33,11 @@
         </item>
         <item>
         <title>托福备考经验总结</title>
-        <link>https://erichu.top/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</link>
+        <link>https://ericrzhu.com/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</link>
         <pubDate>Tue, 09 Nov 2021 11:29:19 +0000</pubDate>
         
-        <guid>https://erichu.top/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</guid>
-        <description>&lt;img src="https://erichu.top/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/cover.png" alt="Featured image of post 托福备考经验总结" /&gt;&lt;p&gt;  这波托福成绩出来了，提升还是蛮大的，记录一波经验。我大概是花了两个半月的时间来准备托福。之前是有学过和考过托福，但是当时还是以技巧去考试为主，所以成绩并不是很理想。现在我认为，托福作为一个语言考试，想要取得高分，必须是实力和技巧并行，这之中，实力更加重要。&lt;/p&gt;
+        <guid>https://ericrzhu.com/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</guid>
+        <description>&lt;img src="https://ericrzhu.com/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/cover.png" alt="Featured image of post 托福备考经验总结" /&gt;&lt;p&gt;  这波托福成绩出来了，提升还是蛮大的，记录一波经验。我大概是花了两个半月的时间来准备托福。之前是有学过和考过托福，但是当时还是以技巧去考试为主，所以成绩并不是很理想。现在我认为，托福作为一个语言考试，想要取得高分，必须是实力和技巧并行，这之中，实力更加重要。&lt;/p&gt;
 &lt;h2 id=&#34;实力&#34;&gt;实力&lt;/h2&gt;
 &lt;p&gt;  所以我先从实力开始说。实力的话最基本的部分就是&lt;strong&gt;单词量&lt;/strong&gt;了，这个真的非常的重要。我是在复习的前一个月把托福的差不多三千个单词过了得有十遍吧（安利一波&lt;code&gt;list单词&lt;/code&gt;），然后之后再去做题的时候就感觉轻松了很多，尤其是在做阅读和听力的时候。我背单词的方法是把好几个地方的单词混着背。我是&lt;code&gt;List单词&lt;/code&gt;这个app上背了6遍单词，然后&lt;code&gt;扇贝&lt;/code&gt;上背了三四遍吧，最后是&lt;code&gt;无老师&lt;/code&gt;那本单词书又过了两遍。单词搞定后，托福基本就搞定一大半了。阅读的话，单词搞定后看明白基本没问题了，因为托福阅读没什么长难句，不难读明白，多刷个几套题应该就ok了。听力一直是托福的一个坎，曾经也是我的一大劝退点，这次备考我大多数时间都是花在听力上，从tpo30开始听，一直到tpo54，每篇听完后做题，然后再听一遍并把没听出来的词记下来，还有的话推荐&lt;a class=&#34;link&#34; href=&#34;https://ed.ted.com/lessons?direction=desc&amp;amp;sort=featured-position&amp;amp;user_by_click=student&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Ted-ed&lt;/strong&gt;&lt;/a&gt;，题材难度跟托福听力蛮接近的，而且很有趣。然后至于口语和写作部分，主要还是多练习吧，最好是能够得到带有反馈的练习，我当时练习口语的时候就是报了一个一对一练习，效果还不错。写作我没有太多发言权&lt;del&gt;写作渣渣一个&lt;/del&gt;。&lt;/p&gt;
@@ -53,18 +53,18 @@
         </item>
         <item>
         <title>腾讯实习经历</title>
-        <link>https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</link>
+        <link>https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</link>
         <pubDate>Fri, 10 Sep 2021 14:35:43 +0000</pubDate>
         
-        <guid>https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</guid>
-        <description>&lt;img src="https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/cover.jpg" alt="Featured image of post 腾讯实习经历" /&gt;&lt;p&gt;在腾讯实习两个月后目前已经跑路回到学校了，记录一下这第一段实习的经历吧。&lt;/p&gt;
+        <guid>https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</guid>
+        <description>&lt;img src="https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/cover.jpg" alt="Featured image of post 腾讯实习经历" /&gt;&lt;p&gt;在腾讯实习两个月后目前已经跑路回到学校了，记录一下这第一段实习的经历吧。&lt;/p&gt;
 &lt;h2 id=&#34;找实习阶段&#34;&gt;找实习阶段&lt;/h2&gt;
 &lt;p&gt;  大三下学期的时候，就是说想要去充实一下暑假的生活，于是便开始找实习（&lt;del&gt;因为如果不自己找的话就只能接受学校安排的在学校里的实习了，很没意思&lt;/del&gt;）。找暑期实习有金三银四的说法，一般大厂的暑期实习三月就开始提前批的面试了。但是我投递的时间比较晚，是四月多才投的，因此也就只赶上了正式批。一开始抱着初生牛犊不怕虎的心态，投的都是互联网大厂，心想着只要有一个能要我就行，因此也没做什么准备。&lt;/p&gt;
 &lt;p&gt;  还记得第一个面试是美团的。因为完全没有准备，整个过程就有那么一些些的尴尬，基本上百分之六十的问题是回答不出来的，然后不出意外的过了二天就收到了拒信（&lt;del&gt;已经将您放入了人才储备库&lt;/del&gt;），之后网易互娱的面试也是如此。痛定思痛，开始看面经做一些准备，刷刷算法题，复习计网的知识等等&lt;code&gt;我感觉计网，数据库的东西是面试的时候最喜欢问的，不过等大四做毕设后也知道为什么了，后端程序员基本上每天接触的就是这俩东西&lt;/code&gt;。效果还是蛮显著的，之后的几个面试基本都能通过一面了，但还是死在二面三面上。眼看时间越来越紧，想着开发卷不进去，就换个方向吧，投了腾讯的测试开发岗位，经过蛮长的三次面试之后，很幸运的通过了，记得HR给我打电话的时候我非常的激动，甚至都没听清我是被哪个部门给录了。
-&lt;img src=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer.jpg&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer.jpg&#34;
 	width=&#34;1381&#34;
 	height=&#34;883&#34;
-	srcset=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_480x0_resize_q75_box.jpg 480w, https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_480x0_resize_q75_box.jpg 480w, https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/offer_hu1bac3889d3aa8fb0f3a775453120c898_122322_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;offer&#34;
@@ -81,10 +81,10 @@
 &lt;p&gt;  入职的准备过程还是比较简单的，找了个下午去做了一张银行卡（还是b站联名的）拍了个工卡照（拍的我十分的白），然后就是想个英文名字了 ，之前我的英文名字是cloud，但想着会不会有点太搞事情了，就打算重新起一个英文名，经过在网上的一番搜索，随便起了一个英文名Eric。然后这个英文名就陪伴了我两个月的时间（&lt;del&gt;现在也还是&lt;/del&gt;）。剩下的准备工作就是定机票了，住宿因为腾讯那边会安排中转酒店所以不用考虑，租房子的话等到了那边再看。为了省钱定的春秋航空，虽然风评不是很好但是实际体验下来也是没有什么太大的槽点。&lt;/p&gt;
 &lt;p&gt;  7月6号，经过半天的飞行到达了深圳。第一站是荔林，比较有生活气息的一个地方,不得不说腾讯给的中转酒店还是十分ok的。晚上就四周逛了一逛，然后去腾讯滨海大厦外面参观了一波。我是很喜欢在城市里面骑车转的，不过我要吐槽一下深圳没有专门的非机动车道，骑车非常痛苦。在来到深圳之前，我以为南山是深圳非常偏远的一个地方了（我孤陋寡闻了），但实际上感觉能够算是深圳的中心区了，可能福田更偏金融一些，南山更偏向于科技一些。然后第二天我老爸老妈也就来到深圳了，一起看租的房子。天真的我一开始是打算2000块钱的月租拿下的，但现实给了我巨大的打击。因为腾讯滨海大厦在南山的中心地区，周边的房子即便是公寓，都要6000块一个月还没窗，往远点租到宝安区的话就必须要忍受巨大的人流量。最后权衡了一波之后，大概在前海湾那边找了一个公寓，每月租金5000，虽然有点远但是很安静而且房间很大。
   虽然房间还是有点贵，但是我感觉配置非常的不错了。于是非常爽的自己住生活便开始了。
-&lt;img src=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room.png&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room.png&#34;
 	width=&#34;4032&#34;
 	height=&#34;3024&#34;
-	srcset=&#34;https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_480x0_resize_box_3.png 480w, https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_480x0_resize_box_3.png 480w, https://ericrzhu.com/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/room_huab2a9ad7b6844555ed8c943fc4444aaa_1472062_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;room&#34;
@@ -109,27 +109,27 @@
         </item>
         <item>
         <title>归档</title>
-        <link>https://erichu.top/archives/</link>
+        <link>https://ericrzhu.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://erichu.top/archives/</guid>
+        <guid>https://ericrzhu.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://erichu.top/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://ericrzhu.com/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://erichu.top/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://ericrzhu.com/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://erichu.top/search/</link>
+        <link>https://ericrzhu.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://erichu.top/search/</guid>
+        <guid>https://ericrzhu.com/search/</guid>
         <description></description>
         </item>
         
