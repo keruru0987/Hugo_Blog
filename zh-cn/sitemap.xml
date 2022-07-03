@@ -2,98 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://erichu.top/zh-cn/</loc>
+    <loc>https://erichu.top/</loc>
     <lastmod>2022-07-03T13:41:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://erichu.top/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://erichu.top/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/"
-                />
   </url><url>
-    <loc>https://erichu.top/zh-cn/post/</loc>
+    <loc>https://erichu.top/post/</loc>
     <lastmod>2022-07-03T13:41:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://erichu.top/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://erichu.top/post/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/post/"
-                />
   </url><url>
-    <loc>https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</loc>
+    <loc>https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</loc>
     <lastmod>2022-07-03T13:41:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erichu.top/p/this-is-the-test-web-plz-go-old-blog/"
+                href="https://erichu.top/en/p/this-is-the-test-web-plz-go-old-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/"
+                href="https://erichu.top/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/"
                 />
   </url><url>
-    <loc>https://erichu.top/zh-cn/tags/</loc>
-    <lastmod>2021-09-10T14:35:43+00:00</lastmod>
+    <loc>https://erichu.top/tags/</loc>
+    <lastmod>2021-11-09T11:29:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://erichu.top/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://erichu.top/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/tags/"
-                />
   </url><url>
-    <loc>https://erichu.top/zh-cn/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2021-09-10T14:35:43+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/zh-cn/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</loc>
-    <lastmod>2021-09-10T14:35:43+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/zh-cn/categories/</loc>
+    <loc>https://erichu.top/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-11-09T11:29:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erichu.top/categories/"
+                href="https://erichu.top/en/p/toefl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/categories/"
+                href="https://erichu.top/p/%E6%89%98%E7%A6%8F%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"
                 />
   </url><url>
-    <loc>https://erichu.top/zh-cn/page/</loc>
+    <loc>https://erichu.top/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-11-09T11:29:19+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://erichu.top/en/tags/%E5%AD%A6%E4%B9%A0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/tags/%E5%AD%A6%E4%B9%A0/"
+                />
+  </url><url>
+    <loc>https://erichu.top/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-09-10T14:35:43+00:00</lastmod>
+  </url><url>
+    <loc>https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</loc>
+    <lastmod>2021-09-10T14:35:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/en/p/tencent-intern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/"
+                />
+  </url><url>
+    <loc>https://erichu.top/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://erichu.top/page/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/page/"
-                />
   </url><url>
-    <loc>https://erichu.top/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://erichu.top/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erichu.top/about/"
+                href="https://erichu.top/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://erichu.top/archives/"
+                />
+  </url><url>
+    <loc>https://erichu.top/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/categories/"
+                />
+  </url><url>
+    <loc>https://erichu.top/categories/test/</loc>
+  </url><url>
+    <loc>https://erichu.top/%E5%85%B3%E4%BA%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/%E5%85%B3%E4%BA%8E/"
+                />
+  </url><url>
+    <loc>https://erichu.top/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/search/"
                 />
   </url>
 </urlset>
