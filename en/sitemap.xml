@@ -30,6 +30,16 @@
   </url><url>
     <loc>https://erichu.top/p/this-is-the-test-web-plz-go-old-blog/</loc>
     <lastmod>2022-07-03T13:41:57+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/p/this-is-the-test-web-plz-go-old-blog/"
+                />
   </url><url>
     <loc>https://erichu.top/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -47,72 +57,6 @@
                 href="https://erichu.top/page/"
                 />
   </url><url>
-    <loc>https://erichu.top/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erichu.top/categories/"
-                />
-  </url><url>
-    <loc>https://erichu.top/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erichu.top/tags/"
-                />
-  </url><url>
-    <loc>https://erichu.top/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erichu.top/categories/test/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://erichu.top/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://erichu.top/categories/test/"
-                />
-  </url><url>
     <loc>https://erichu.top/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -126,8 +70,34 @@
                 href="https://erichu.top/about/"
                 />
   </url><url>
+    <loc>https://erichu.top/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/categories/"
+                />
+  </url><url>
     <loc>https://erichu.top/links/</loc>
   </url><url>
     <loc>https://erichu.top/search/</loc>
+  </url><url>
+    <loc>https://erichu.top/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://erichu.top/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erichu.top/tags/"
+                />
+  </url><url>
+    <loc>https://erichu.top/categories/test/</loc>
   </url>
 </urlset>
