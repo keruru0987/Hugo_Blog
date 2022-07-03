@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Eric 个人博客</title>
-        <link>https://erichu.top/zh-cn/post/</link>
-        <description>Recent content in Posts on Eric 个人博客</description>
+        <title>日常 on Eric 个人博客</title>
+        <link>https://erichu.top/zh-cn/tags/%E6%97%A5%E5%B8%B8/</link>
+        <description>Recent content in 日常 on Eric 个人博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="https://erichu.top/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>这个网站还在测试阶段，老的博客还在更新</title>
-        <link>https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</link>
-        <pubDate>Sun, 03 Jul 2022 13:41:57 +0800</pubDate>
-        
-        <guid>https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</guid>
-        <description>&lt;h2 id=&#34;基本的已经摸索的差不多了估计快了&#34;&gt;基本的已经摸索的差不多了，估计快了&lt;/h2&gt;
-&lt;p&gt;老博客网址：&lt;code&gt;http://ericrzhu.com&lt;/code&gt;，快速前往 &lt;a class=&#34;link&#34; href=&#34;http://ericrzhu.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;走你&lt;/a&gt;
-&lt;img src=&#34;https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1.jpg&#34;
-	width=&#34;5465&#34;
-	height=&#34;2842&#34;
-	srcset=&#34;https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_480x0_resize_q75_box.jpg 480w, https://erichu.top/zh-cn/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;test_image&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;192&#34;
-		data-flex-basis=&#34;461px&#34;
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 10 Sep 2021 14:35:43 +0000</lastBuildDate><atom:link href="https://erichu.top/zh-cn/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>腾讯实习经历</title>
         <link>https://erichu.top/zh-cn/p/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86/</link>
         <pubDate>Fri, 10 Sep 2021 14:35:43 +0000</pubDate>
