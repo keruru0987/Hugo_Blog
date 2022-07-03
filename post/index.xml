@@ -7,18 +7,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="https://ericrzhu.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>这个网站还在测试阶段，老的博客还在更新</title>
-        <link>https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</link>
+        <title>现在开始在这里更新啦</title>
+        <link>https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/</link>
         <pubDate>Sun, 03 Jul 2022 13:41:57 +0800</pubDate>
         
-        <guid>https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/</guid>
-        <description>&lt;h2 id=&#34;基本的已经摸索的差不多了估计快了&#34;&gt;基本的已经摸索的差不多了，估计快了&lt;/h2&gt;
-&lt;p&gt;老博客网址：&lt;code&gt;http://ericrzhu.com&lt;/code&gt;，快速前往 &lt;a class=&#34;link&#34; href=&#34;http://ericrzhu.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/</guid>
+        <description>&lt;h2 id=&#34;换了新的框架&#34;&gt;换了新的框架&lt;/h2&gt;
+&lt;p&gt;原来博客采用的是Gridea+Github Page，但是之前那种方法自由度太低了，作为计算机专业的学生自然是不满足的。所以现在换了Hugo框架，更加折腾但是也更加有意思了。&lt;/p&gt;
+&lt;p&gt;老博客网址：&lt;code&gt;http://erichu.top&lt;/code&gt;，快速前往 &lt;a class=&#34;link&#34; href=&#34;http://erichu.top&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;走你&lt;/a&gt;
-&lt;img src=&#34;https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1.jpg&#34;
+&lt;img src=&#34;https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/test1.jpg&#34;
 	width=&#34;5465&#34;
 	height=&#34;2842&#34;
-	srcset=&#34;https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_480x0_resize_q75_box.jpg 480w, https://ericrzhu.com/p/%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E8%BF%98%E5%9C%A8%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E8%80%81%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%BF%98%E5%9C%A8%E6%9B%B4%E6%96%B0/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_480x0_resize_q75_box.jpg 480w, https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/test1_hu34cb44119f3ddd5e527ad4c1c41afe00_2734721_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;test_image&#34;
