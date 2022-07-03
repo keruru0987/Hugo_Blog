@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>http://erichu.top/</link>
+        <link>https://erichu.top/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="http://erichu.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Jul 2022 13:41:57 +0800</lastBuildDate><atom:link href="https://erichu.top/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>This is the Test web, plz go old blog</title>
-        <link>http://erichu.top/p/this-is-the-test-web-plz-go-old-blog/</link>
+        <link>https://erichu.top/p/this-is-the-test-web-plz-go-old-blog/</link>
         <pubDate>Sun, 03 Jul 2022 13:41:57 +0800</pubDate>
         
-        <guid>http://erichu.top/p/this-is-the-test-web-plz-go-old-blog/</guid>
+        <guid>https://erichu.top/p/this-is-the-test-web-plz-go-old-blog/</guid>
         <description>&lt;h2 id=&#34;hello-world&#34;&gt;hello world&lt;/h2&gt;
 &lt;p&gt;Hugo Blog Test!&lt;/p&gt;
 &lt;p&gt;Plz go &lt;code&gt;http://ericrzhu.com&lt;/code&gt;, here is &lt;a class=&#34;link&#34; href=&#34;http://ericrzhu.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

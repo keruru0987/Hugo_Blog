@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://erichu.top/zh-cn/categories/</loc>
+    <loc>https://erichu.top/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erichu.top/categories/"
+                href="https://erichu.top/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://erichu.top/ar/categories/"
+                href="https://erichu.top/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://erichu.top/zh-cn/categories/"
+                href="https://erichu.top/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://erichu.top/zh-cn/tags/</loc>
+    <loc>https://erichu.top/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erichu.top/tags/"
+                href="https://erichu.top/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://erichu.top/ar/tags/"
+                href="https://erichu.top/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://erichu.top/zh-cn/tags/"
+                href="https://erichu.top/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://erichu.top/zh-cn/</loc>
+    <loc>https://erichu.top/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erichu.top/"
+                href="https://erichu.top/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://erichu.top/ar/"
+                href="https://erichu.top/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://erichu.top/zh-cn/"
+                href="https://erichu.top/zh-cn/"
                 />
   </url>
 </urlset>
