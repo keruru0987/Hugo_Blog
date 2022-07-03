@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Example Site</title>
+        <title>Tags on Eric Blog</title>
         <link>https://erichu.top/tags/</link>
-        <description>Recent content in Tags on Example Site</description>
+        <description>Recent content in Tags on Eric Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://erichu.top/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://erichu.top/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>css</title>
+        <link>https://erichu.top/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://erichu.top/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>html</title>
+        <link>https://erichu.top/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://erichu.top/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>markdown</title>
+        <link>https://erichu.top/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://erichu.top/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>themes</title>
+        <link>https://erichu.top/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://erichu.top/tags/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>emoji</title>
+        <link>https://erichu.top/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://erichu.top/tags/emoji/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
