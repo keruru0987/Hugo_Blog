@@ -147,7 +147,29 @@
                 href="https://ericrzhu.com/en/categories/"
                 />
   </url><url>
+    <loc>https://ericrzhu.com/en/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/categories/%E6%97%A5%E5%B8%B8/"
+                />
+  </url><url>
     <loc>https://ericrzhu.com/en/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/%E9%93%BE%E6%8E%A5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/links/"
+                />
   </url><url>
     <loc>https://ericrzhu.com/en/search/</loc>
     <xhtml:link
@@ -161,16 +183,16 @@
                 href="https://ericrzhu.com/en/search/"
                 />
   </url><url>
-    <loc>https://ericrzhu.com/en/categories/test/</loc>
+    <loc>https://ericrzhu.com/en/categories/%E6%8A%80%E6%9C%AF/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ericrzhu.com/categories/test/"
+                href="https://ericrzhu.com/categories/%E6%8A%80%E6%9C%AF/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericrzhu.com/en/categories/test/"
+                href="https://ericrzhu.com/en/categories/%E6%8A%80%E6%9C%AF/"
                 />
   </url>
 </urlset>

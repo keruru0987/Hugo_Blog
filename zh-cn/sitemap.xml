@@ -134,18 +134,6 @@
                 href="https://ericrzhu.com/categories/"
                 />
   </url><url>
-    <loc>https://ericrzhu.com/categories/test/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/categories/test/"
-                />
-  </url><url>
     <loc>https://ericrzhu.com/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,6 +144,42 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/%E5%85%B3%E4%BA%8E/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/categories/%E6%8A%80%E6%9C%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/categories/%E6%8A%80%E6%9C%AF/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/%E9%93%BE%E6%8E%A5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/%E9%93%BE%E6%8E%A5/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/categories/%E6%97%A5%E5%B8%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/search/</loc>
