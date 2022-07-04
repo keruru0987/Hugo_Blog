@@ -41,7 +41,23 @@
                 href="https://ericrzhu.com/post/"
                 />
   </url><url>
+    <loc>https://ericrzhu.com/tags/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/tags/"
+                />
+  </url><url>
     <loc>https://ericrzhu.com/p/%E6%9C%AC%E7%A7%91%E6%9C%9F%E9%97%B4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/</loc>
@@ -58,19 +74,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/tags/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/tags/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/tags/%E6%8A%80%E5%B7%A7/</loc>
