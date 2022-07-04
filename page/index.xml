@@ -20,7 +20,29 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ericrzhu.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;h2 id=&#34;-关于本站&#34;&gt;🏠 关于本站&lt;/h2&gt;
+&lt;p&gt;随缘记录生活，maybe会分享一些技术方面的学习心得&lt;/p&gt;
+&lt;p&gt;之前的博客网站：&lt;code&gt;http://erichu.top&lt;/code&gt;，应该过不久就会关了，Gridea各种问题实在太多。&lt;/p&gt;
+&lt;h2 id=&#34;-博主是谁&#34;&gt;👨‍💻 博主是谁&lt;/h2&gt;
+&lt;p&gt;&lt;del&gt;哈工大计算机科学专业大四学生&lt;/del&gt;，成功毕业啦，即将前往墨尔本大学研读cs硕士&lt;/p&gt;
+&lt;h2 id=&#34;-兴趣爱好&#34;&gt;⛹ 兴趣爱好&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;喜欢玩游戏，目前正在玩破晓传奇和生化危机3，&lt;del&gt;想成为一名游戏开发者&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;折腾电脑，&lt;del&gt;虽然算是个小白&lt;/del&gt;，但感觉掌握新的技术还是蛮有意思的&lt;/li&gt;
+&lt;li&gt;骑车，希望能够在澳洲留学期间从墨尔本骑到悉尼，&lt;del&gt;希望有机会&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;喜欢看动漫，是个二次元，目前正在看间谍过家家和理科生坠入情网。&lt;/li&gt;
+&lt;li&gt;接下来希望提升我的做菜和摄影能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-联系我呀&#34;&gt;📬 联系我呀&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;邮箱&lt;/code&gt;：ericrzhu2000@163.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;GitHub&lt;/code&gt;： &lt;a class=&#34;link&#34; href=&#34;https://github.com/keruru0987&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/keruru0987&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
