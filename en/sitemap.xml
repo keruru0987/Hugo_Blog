@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/en/</loc>
-    <lastmod>2022-07-03T13:41:57+08:00</lastmod>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,8 +15,21 @@
                 href="https://ericrzhu.com/en/"
                 />
   </url><url>
+    <loc>https://ericrzhu.com/en/p/my-blog-has-been-removed-here/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/p/my-blog-has-been-removed-here/"
+                />
+  </url><url>
     <loc>https://ericrzhu.com/en/post/</loc>
-    <lastmod>2022-07-03T13:41:57+08:00</lastmod>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -26,19 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ericrzhu.com/en/post/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/en/p/this-is-the-test-web-plz-go-old-blog/</loc>
-    <lastmod>2022-07-03T13:41:57+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/p/%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9B%B4%E6%96%B0%E5%95%A6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/p/this-is-the-test-web-plz-go-old-blog/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/en/tags/</loc>
