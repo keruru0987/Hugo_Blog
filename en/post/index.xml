@@ -29,7 +29,7 @@
 &lt;th&gt;Major&lt;/th&gt;
 &lt;th&gt;Result&lt;/th&gt;
 &lt;th&gt;Timeline&lt;/th&gt;
-&lt;th&gt;Con&lt;/th&gt;
+&lt;th&gt;Condition&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -97,7 +97,7 @@
 &lt;td&gt;final score:85&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;University of Melbourne&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Information Technology&lt;/td&gt;
 &lt;td&gt;offer($10000AUD)&lt;/td&gt;
 &lt;td&gt;3.19-6.06&lt;/td&gt;
