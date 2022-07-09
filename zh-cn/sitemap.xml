@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://ericrzhu.com/categories/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://ericrzhu.com/post/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,24 +41,8 @@
                 href="https://ericrzhu.com/post/"
                 />
   </url><url>
-    <loc>https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ericrzhu.com/p/%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%8E%86%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/p/application-record/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/p/%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%8E%86%E8%AE%B0%E5%BD%95/"
-                />
-  </url><url>
     <loc>https://ericrzhu.com/tags/</loc>
-    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,6 +52,31 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/tags/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E7%95%99%E5%AD%A6/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E7%94%B3%E8%AF%B7/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/p/%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%8E%86%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/p/application-record/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/p/%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%8E%86%E8%AE%B0%E5%BD%95/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/p/%E6%9C%AC%E7%A7%91%E6%9C%9F%E9%97%B4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</loc>
