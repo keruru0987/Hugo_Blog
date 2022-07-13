@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,22 @@
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/"
                 />
+  </url><url>
+    <loc>https://ericrzhu.com/post/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/post/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/p/%E5%AE%89%E5%90%89%E4%B8%89%E6%97%A5%E8%A1%8C/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/categories/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/categories/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/post/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/post/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/tags/</loc>
@@ -140,7 +143,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ericrzhu.com/en/p/tencent-intern/"
+                href="https://ericrzhu.com/en/p/tencent-internship-experience/"
                 />
     <xhtml:link
                 rel="alternate"
