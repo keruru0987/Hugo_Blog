@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,24 +15,8 @@
                 href="https://ericrzhu.com/"
                 />
   </url><url>
-    <loc>https://ericrzhu.com/post/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/post/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/p/%E5%AE%89%E5%90%89%E4%B8%89%E6%97%A5%E8%A1%8C/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ericrzhu.com/categories/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,8 +28,21 @@
                 href="https://ericrzhu.com/categories/"
                 />
   </url><url>
+    <loc>https://ericrzhu.com/post/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/post/"
+                />
+  </url><url>
     <loc>https://ericrzhu.com/tags/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,6 +53,21 @@
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/tags/"
                 />
+  </url><url>
+    <loc>https://ericrzhu.com/p/%E5%87%BA%E5%8F%91%E5%89%8D%E5%BE%80%E5%A2%A8%E5%B0%94%E6%9C%AC/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E8%BF%94%E6%BE%B3/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/tags/%E5%A2%A8%E5%B0%94%E6%9C%AC/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/categories/%E5%A2%A8%E5%B0%94%E6%9C%AC/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ericrzhu.com/p/%E5%AE%89%E5%90%89%E4%B8%89%E6%97%A5%E8%A1%8C/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/tags/%E7%95%99%E5%AD%A6/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
