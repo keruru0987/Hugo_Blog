@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/</loc>
-    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,22 @@
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/"
                 />
+  </url><url>
+    <loc>https://ericrzhu.com/post/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/post/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/p/%E8%BF%99%E5%91%A8%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E6%9B%B4%E4%BA%86/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/categories/</loc>
     <lastmod>2022-08-14T00:00:00+00:00</lastmod>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/categories/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/post/</loc>
-    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/post/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/categories/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</loc>
