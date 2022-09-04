@@ -28,22 +28,6 @@
                 href="https://ericrzhu.com/en/p/application-record/"
                 />
   </url><url>
-    <loc>https://ericrzhu.com/en/categories/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ericrzhu.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ericrzhu.com/en/categories/"
-                />
-  </url><url>
-    <loc>https://ericrzhu.com/en/categories/daily/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ericrzhu.com/en/post/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -71,12 +55,6 @@
                 />
   </url><url>
     <loc>https://ericrzhu.com/en/tags/english/</loc>
-    <lastmod>2021-11-09T11:29:19+00:00</lastmod>
-  </url><url>
-    <loc>https://ericrzhu.com/en/categories/english/</loc>
-    <lastmod>2021-11-09T11:29:19+00:00</lastmod>
-  </url><url>
-    <loc>https://ericrzhu.com/en/categories/study/</loc>
     <lastmod>2021-11-09T11:29:19+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/en/tags/</loc>
@@ -170,6 +148,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ericrzhu.com/en/about/"
+                />
+  </url><url>
+    <loc>https://ericrzhu.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ericrzhu.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ericrzhu.com/en/categories/"
                 />
   </url><url>
     <loc>https://ericrzhu.com/en/links/</loc>

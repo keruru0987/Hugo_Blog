@@ -5,31 +5,6 @@
         <link>https://ericrzhu.com/en/categories/</link>
         <description>Recent content in Categories on Eric Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericrzhu.com/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>daily</title>
-        <link>https://ericrzhu.com/en/categories/daily/</link>
-        <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://ericrzhu.com/en/categories/daily/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>english</title>
-        <link>https://ericrzhu.com/en/categories/english/</link>
-        <pubDate>Tue, 09 Nov 2021 11:29:19 +0000</pubDate>
-        
-        <guid>https://ericrzhu.com/en/categories/english/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>study</title>
-        <link>https://ericrzhu.com/en/categories/study/</link>
-        <pubDate>Tue, 09 Nov 2021 11:29:19 +0000</pubDate>
-        
-        <guid>https://ericrzhu.com/en/categories/study/</guid>
-        <description></description>
-        </item>
-        
+        <language>en-us</language><atom:link href="https://ericrzhu.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
