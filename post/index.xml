@@ -6,7 +6,101 @@
         <description>Recent content in Posts on Eric 个人博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericrzhu.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ericrzhu.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>秋招知识点复习整理</title>
+        <link>https://ericrzhu.com/p/%E7%A7%8B%E6%8B%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/</link>
+        <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://ericrzhu.com/p/%E7%A7%8B%E6%8B%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/</guid>
+        <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;临近秋招，发现很多之前学过的知识点都没印象了。因此打算先复习一下，这个Post就当作是一个整理吧，让我能在面试之前还能抱抱佛脚。&lt;/p&gt;
+&lt;h1 id=&#34;计算机网络&#34;&gt;计算机网络&lt;/h1&gt;
+&lt;h2 id=&#34;qa&#34;&gt;Q&amp;amp;A&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HTTP和HTTPS的区别，为什么https能确保安全：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;数据加密：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTTP：&lt;/strong&gt; 在HTTP中，数据以&lt;code&gt;明文形式&lt;/code&gt;传输，这意味着任何人在网络中都能够拦截并读取传输的数据内容，包括敏感信息，如用户名、密码等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTTPS：&lt;/strong&gt; HTTPS通过&lt;code&gt;使用SSL（安全套接层）或TLS（传输层安全）协议来加密传输&lt;/code&gt;的数据。这意味着即使有人截取了数据，他们也无法轻易解读其中的内容，因为数据已经被加密。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据完整性：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTTP：&lt;/strong&gt; 在HTTP中，数据在传输过程中&lt;code&gt;无法保证不被篡改&lt;/code&gt;。攻击者可能会修改传输的数据，而接收方无法确定数据是否被篡改。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTTPS：&lt;/strong&gt; HTTPS使用&lt;code&gt;数字证书和数字签名来验证数据的完整性&lt;/code&gt;。接收方可以通过证书&lt;code&gt;验证发送方的身份&lt;/code&gt;，并确保数据在传输过程中没有被修改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;身份验证：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTTP：&lt;/strong&gt; HTTP没有内置的机制来验证网站的身份，这使得攻击者可以通过伪装成合法的网站来进行欺骗。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTTPS：&lt;/strong&gt; HTTPS&lt;code&gt;使用数字证书来验证网站的身份&lt;/code&gt;。这些证书&lt;code&gt;由受信任的证书颁发机构（CA）签发&lt;/code&gt;，可以确认网站是否是合法的。这样，用户可以放心地与正确的网站进行交互&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;非对称加密的介绍&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;非对称加密是一种密码学方法，用于加密和解密数据，以确保数据的机密性和安全性。与对称加密不同，非对称加密使用一对密钥：公钥（public key）和私钥（private key）。这两个密钥在数学上是相关的，但是从公钥无法轻易地推导出私钥。非对称加密广泛用于保护数据的传输、数字签名和身份验证等场景。&lt;/p&gt;
+&lt;p&gt;以下是非对称加密的关键概念和工作原理：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;公钥和私钥：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;公钥：&lt;/strong&gt; 公钥是用于加密数据的密钥，可以公开分享给任何人。任何人都可以使用公钥对数据进行加密，但是只有拥有与之配对的私钥的人才能解密。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;私钥：&lt;/strong&gt; 私钥是用于解密已加密数据的密钥，必须保密且只有所有者知道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;加密过程：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;发送方使用接收方的公钥来加密要传输的数据。&lt;/li&gt;
+&lt;li&gt;加密后的数据只能使用接收方的私钥进行解密，确保只有接收方能够读取原始数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数字签名：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;发送方可以使用自己的私钥创建数字签名，这是对数据的加密哈希值。&lt;/li&gt;
+&lt;li&gt;接收方可以使用发送方的公钥来验证数字签名的完整性和真实性，确保数据未被篡改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;身份验证：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;在某些场景下，非对称加密可以用于验证通信方的身份。&lt;/li&gt;
+&lt;li&gt;通信方可以向对方发送自己的公钥，以供对方使用，从而确保通信双方的身份。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;非对称加密通常比对称加密慢得多，因为它涉及复杂的数学计算。&lt;/li&gt;
+&lt;li&gt;为了兼顾性能和安全性，实际应用中常常会结合非对称加密和对称加密，即使用非对称加密来传输对称加密的密钥。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;操作系统&#34;&gt;操作系统&lt;/h1&gt;
+&lt;h1 id=&#34;数据结构&#34;&gt;数据结构&lt;/h1&gt;
+&lt;h2 id=&#34;qa-1&#34;&gt;Q&amp;amp;A&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;如何自己构造HashMap&lt;/li&gt;
+&lt;li&gt;红黑树的理解&lt;/li&gt;
+&lt;li&gt;二叉查找树的增删改查时间复杂度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;数据库&#34;&gt;数据库&lt;/h1&gt;
+&lt;h2 id=&#34;qa-2&#34;&gt;Q&amp;amp;A&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;进程之间怎么进行协作&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进程间通信&lt;/li&gt;
+&lt;li&gt;分一块内存&lt;/li&gt;
+&lt;li&gt;Tube&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>气候相关Claim 自动真实性检测</title>
         <link>https://ericrzhu.com/p/%E6%B0%94%E5%80%99%E7%9B%B8%E5%85%B3claim-%E8%87%AA%E5%8A%A8%E7%9C%9F%E5%AE%9E%E6%80%A7%E6%A3%80%E6%B5%8B/</link>
         <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
@@ -514,39 +608,6 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;总的来说，这两所学校是我申请的当中最想被录取的两所学校，很幸运的是，这两所学校都给我发了offer（啊要是这两所只有一所给我发了那我也不用纠结了&lt;del&gt;凡尔赛发言&lt;/del&gt;），一边是美丽的中世纪古堡，还有一边是南半球的沙滩和星空，真的蛮难做出选择。最后综合了上面表中几点，虽然爱丁堡排名完爆墨尔本，但我实在是不太喜欢一年制的项目（&lt;del&gt;刚入学就要准备毕业，秋招可太痛苦了&lt;/del&gt;），爱丁堡cs项目基本上就是再一年时间内学完两年的两，学业压力非常的大（&lt;del&gt;听说天天得熬夜&lt;/del&gt;）而且还没什么假期。与之相对的墨尔本那么多年都被评为世界十大宜居城市，应该在生活上不会太让我失望，同时课业强度适中，学期中挺忙但是假期也长，我可以打工旅游什么的，因此最后就决定去墨尔本CS了。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>本科期间旅行记录</title>
-        <link>https://ericrzhu.com/p/%E6%9C%AC%E7%A7%91%E6%9C%9F%E9%97%B4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</link>
-        <pubDate>Tue, 05 Jul 2022 00:41:59 +0800</pubDate>
-        
-        <guid>https://ericrzhu.com/p/%E6%9C%AC%E7%A7%91%E6%9C%9F%E9%97%B4%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95/</guid>
-        <description>&lt;p&gt;先列个目录，慢慢补 &lt;del&gt;又是一个大坑&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;应该马上就会开始更新这个&lt;code&gt;2023.02.07&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;大一20189---20198&#34;&gt;大一（2018.9 - 2019.8）&lt;/h2&gt;
-&lt;h3 id=&#34;重庆成都&#34;&gt;重庆，成都&lt;/h3&gt;
-&lt;h3 id=&#34;哈尔滨初印象&#34;&gt;哈尔滨（初印象）&lt;/h3&gt;
-&lt;h3 id=&#34;杭州第一次&#34;&gt;杭州（第一次）&lt;/h3&gt;
-&lt;h3 id=&#34;日本&#34;&gt;日本&lt;/h3&gt;
-&lt;h3 id=&#34;汕头潮州&#34;&gt;汕头，潮州&lt;/h3&gt;
-&lt;h3 id=&#34;上海第一次&#34;&gt;上海（第一次）&lt;/h3&gt;
-&lt;h3 id=&#34;长春长白山&#34;&gt;长春，长白山&lt;/h3&gt;
-&lt;h3 id=&#34;北京天津&#34;&gt;北京，天津&lt;/h3&gt;
-&lt;h2 id=&#34;大二20199---20208&#34;&gt;大二（2019.9 - 2020.8）&lt;/h2&gt;
-&lt;h3 id=&#34;亚布力&#34;&gt;亚布力&lt;/h3&gt;
-&lt;h3 id=&#34;大连&#34;&gt;大连&lt;/h3&gt;
-&lt;h3 id=&#34;三亚海口&#34;&gt;三亚，海口&lt;/h3&gt;
-&lt;h2 id=&#34;大三20209---20218&#34;&gt;大三（2020.9 - 2021.8）&lt;/h2&gt;
-&lt;h3 id=&#34;伊春&#34;&gt;伊春&lt;/h3&gt;
-&lt;h3 id=&#34;南京&#34;&gt;南京&lt;/h3&gt;
-&lt;h3 id=&#34;杭州第二次&#34;&gt;杭州（第二次）&lt;/h3&gt;
-&lt;h3 id=&#34;海拉尔满洲里&#34;&gt;海拉尔，满洲里&lt;/h3&gt;
-&lt;h3 id=&#34;深圳&#34;&gt;深圳&lt;/h3&gt;
-&lt;h2 id=&#34;大四20219---20226&#34;&gt;大四（2021.9 - 2022.6）&lt;/h2&gt;
-&lt;h3 id=&#34;沈阳&#34;&gt;沈阳&lt;/h3&gt;
-&lt;h3 id=&#34;上海第二次&#34;&gt;上海（第二次）&lt;/h3&gt;
-&lt;h3 id=&#34;杭州第三次&#34;&gt;杭州（第三次）&lt;/h3&gt;
 </description>
         </item>
         <item>
