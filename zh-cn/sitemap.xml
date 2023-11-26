@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ericrzhu.com/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,11 @@
                 href="https://ericrzhu.com/"
                 />
   </url><url>
+    <loc>https://ericrzhu.com/p/leetcode/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ericrzhu.com/post/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,9 +30,6 @@
                 hreflang="zh-cn"
                 href="https://ericrzhu.com/post/"
                 />
-  </url><url>
-    <loc>https://ericrzhu.com/p/%E7%A7%8B%E6%8B%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ericrzhu.com/tags/nlp/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
